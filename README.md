@@ -1,3 +1,3 @@
-I live inside a bubble
+I live in the woods
 
-![cube](cube.gif)
+![fox](fox.gif "fox")
