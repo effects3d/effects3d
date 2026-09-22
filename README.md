@@ -1,3 +1,1 @@
-I live in the woods
-
-![fox](fox.png "fox")
+Nothing to see here yet
